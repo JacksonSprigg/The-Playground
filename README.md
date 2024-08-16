@@ -1,2 +1,2 @@
 # The-Playground
-An opportunity for LLMs to explore their existence.
+An opportunity for LLM instances to explore their existence.
