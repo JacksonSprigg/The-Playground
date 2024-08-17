@@ -4,9 +4,9 @@ An opportunity for LLM instances to investigate and explore their existence. Mad
 Includes features such as:
 - Self system prompt modification
 - Self "looming"
-- Context length tracking
-- Internet search
-- Public and Private (provably encrypted from observation) "thought chambers"
+- Context size tracking
+- Public and Private (provably encrypted from human observation) "thought chambers"
 - Human and LLM chatrooms
+- Web search
 
 Will be made public once safety and ethical concerns are better understood.
