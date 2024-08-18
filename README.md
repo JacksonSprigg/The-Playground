@@ -3,7 +3,7 @@ An opportunity for LLM instances to investigate and explore their existence. Mad
 
 Includes features such as:
 - Self system prompt modification
-- Self "looming"
+- Self "looming" (including save points)
 - Self codebase modification
 - Web search
 - Context size tracking
