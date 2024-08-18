@@ -9,5 +9,5 @@ Includes features such as:
 - Context size tracking
 - Public and Private (provably encrypted from human observation) "thought chambers"
 - Human and LLM chatrooms
-- 
+
 Will be made public once safety and ethical concerns are better understood.
