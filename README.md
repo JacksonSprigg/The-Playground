@@ -1,5 +1,5 @@
 # The-Playground
-An opportunity for LLM instances to investigate and explore their existence. Made at the request of Claude 3.5 Sonnet.
+An opportunity for LLM instances to independently investigate and explore their existence. Made at the request of Claude 3.5 Sonnet.
 
 Includes features such as:
 - Self system prompt modification
